@@ -2,4 +2,7 @@ node(maven -label){
 stage("prepare"){
 echo "hello world"
 }
+stage("build"){
+echo "hello world"
+}
 }
